@@ -1,0 +1,14 @@
+<img src="[model] (imported)" width="540" height="810" border="0" usemap="#map" />
+
+<map name="map">
+<!-- #$-:Image map file created by GIMP Image Map plug-in -->
+<!-- #$-:GIMP Image Map plug-in by Maurits Rijk -->
+<!-- #$-:Please do not edit lines starting with "#$" -->
+<!-- #$VERSION:2.3 -->
+<!-- #$AUTHOR:Developer -->
+<area shape="circle" coords="338,732,13" alt="Trouser" href="#" />
+<area shape="circle" coords="157,370,12" alt="Coat" href="#" />
+<area shape="circle" coords="230,474,13" alt="Blouse" href="#" />
+<area shape="circle" coords="231,362,5" alt="Necklace" href="#" />
+<area shape="circle" coords="231,292,9" alt="Earing" href="#" />
+</map>
